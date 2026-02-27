@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Ekim.
-- 👀 I’m interested in algorithms and problem solution.
+
 - 🌱 I’m currently studying Computer Engineering.
-- 💞️ I’m looking to collaborate on anyone who wants to try and learn new things.
+
 - 📫 How to reach me ekim.bubu@gmail.com
-- 😄 Pronouns: she/her
 
 
 <!---
