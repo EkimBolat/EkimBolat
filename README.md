@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner">
+</p>
+
 # 👋 Hi, I'm Ekim
 
 💻 Computer Engineering student at Ege University
