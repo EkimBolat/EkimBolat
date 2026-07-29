@@ -19,7 +19,7 @@
 
 ### 🧰 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,markdown,cs,postgres,java,spring" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,cs,postgres,java,spring" />
 </p>
 
 
