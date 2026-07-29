@@ -1,11 +1,24 @@
-- 👋 Hi, I’m Ekim.
+# 👋 Hi, I'm Ekim
 
-- 🌱 I’m currently studying Computer Engineering.
+💻 Computer Engineering student at Ege University
 
-- 📫 How to reach me ekim.bubu@gmail.com
+🚀 Interested in Backend Development and SAP Technologies
 
+🌱 Currently learning:
+- Java
+- Spring Boot
+- SQL
+- SAP ABAP
+- Git & GitHub
 
-<!---
-EkimBolat/EkimBolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Contact
+
+📧 ekim.bubu@gmail.com
