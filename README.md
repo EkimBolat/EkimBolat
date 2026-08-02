@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner">
+  <img src="banner.svg" alt="Banner">
 </p>
 
 # 👋 Hi, I'm Ekim
