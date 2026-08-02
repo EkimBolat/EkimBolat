@@ -1,5 +1,7 @@
-name: Generate Snake
 
+Snake · YML
+name: Generate Snake
+ 
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +9,7 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
   generate:
     permissions:
@@ -19,12 +21,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=60a5fa,8b5cf6,c4b5fd,8b5cf6,60a5fa&color_dots=161b22,3b2f63,6d28d9,8b5cf6,c4b5fd
-            dist/github-contribution-grid-snake-dark.svg?color_snake=60a5fa,8b5cf6,c4b5fd,8b5cf6,60a5fa&color_dots=0d1117,3b2f63,6d28d9,8b5cf6,c4b5fd
-
+            dist/github-contribution-grid-snake.svg?color_snake=#7c3aed&color_dots=#f3f4f6,#ddd6fe,#c4b5fd,#a78bfa,#8b5cf6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#8b5cf6&color_dots=#0d1117,#2d1b4e,#4c2889,#6d28d9,#8b5cf6
+ 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+
