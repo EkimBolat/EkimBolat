@@ -1,3 +1,4 @@
+<p align="center"> <img src="banner.svg" alt="Banner"> </p> <h3 align="center">Computer Engineering student · Backend Development & SAP Technologies</h3> <p align="center"> <img src="https://img.shields.io/badge/Ege%20University-Computer%20Engineering-8b5cf6?style=flat-square" /> </p>
 <p align="center"> <img src="banner.svg" alt="Banner"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Development+%26+SAP+Technologies;Computer+Engineering+%40+Ege+University;Currently+learning+Spring+Boot+%26+SAP+ABAP" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Ege%20University-Computer%20Engineering-8b5cf6?style=flat-square" /> </p>
 Tech stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cs,spring,postgres,git,github,vscode" /> </p>
