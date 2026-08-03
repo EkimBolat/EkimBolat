@@ -1,13 +1,7 @@
 <p align="center"> <img src="banner.svg" alt="Banner"> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Development%20%26%20SAP%20Technologies-8b5cf6?style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering%20%40%20Ege%20University-161b22?style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20learning%20Spring%20Boot%20%26%20SAP%20ABAP-60a5fa?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:60A5FA&height=150&section=header&text=Backend%20Development%20%26%20SAP%20Technologies&fontSize=28&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%40%20Ege%20University%20%7C%20Currently%20learning%20Spring%20Boot%20%26%20SAP%20ABAP&descSize=15&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Ege%20University-Computer%20Engineering-8b5cf6?style=flat-square" /> </p>
