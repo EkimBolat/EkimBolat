@@ -1,9 +1,13 @@
 <p align="center"> <img src="banner.svg" alt="Banner"> </p>
 
 <p align="center">
-  <b>Backend Development & SAP Technologies</b><br>
-  Computer Engineering @ Ege University<br>
-  Currently learning Spring Boot & SAP ABAP
+  <img src="https://img.shields.io/badge/Backend%20Development%20%26%20SAP%20Technologies-8b5cf6?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Engineering%20%40%20Ege%20University-161b22?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20learning%20Spring%20Boot%20%26%20SAP%20ABAP-60a5fa?style=flat-square" />
 </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Ege%20University-Computer%20Engineering-8b5cf6?style=flat-square" /> </p>
