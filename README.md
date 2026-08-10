@@ -14,20 +14,28 @@ Backend Development & SAP Technologies
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-6C4FD6?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-6C4FD6?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-6C4FD6?style=flat-square&logo=csharp&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6C4FD6?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6C4FD6?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6C4FD6?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-6C4FD6?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-6C4FD6?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ## Currently Learning
 
-Java · Python · Spring Boot · SQL · SAP ABAP
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-6C4FD6?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6C4FD6?style=flat-square&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6C4FD6?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6C4FD6?style=flat-square&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-6C4FD6?style=flat-square&logoColor=white)
+
+</div>
 
 ## Contribution Activity
 
@@ -44,5 +52,3 @@ Java · Python · Spring Boot · SQL · SAP ABAP
 [GitHub](https://github.com/EkimBolat)
 
 </div>
-
-
