@@ -1,27 +1,48 @@
-<p align="center"> <img src="banner.svg" alt="Banner"> </p>
+<div align="center">
 
-<h3 align="center">Computer Engineering student · Backend Development & SAP Technologies</h3>
+# Ekim Bolat
 
-<p align="center"> <img src="https://img.shields.io/badge/Ege%20University-Computer%20Engineering-8b5cf6?style=flat-square" /> </p>
+Computer Engineering Student · Ege University
 
-## Tech stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cs,spring,postgres,git,github,vscode" /> </p>
+Backend Development & SAP Technologies
 
-## Currently learning
-<p align="center">
-<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8b5cf6" />
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Spring%20Boot-161b22?style=flat-square&logo=springboot&logoColor=8b5cf6" />
-<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/SAP%20ABAP-161b22?style=flat-square&logo=sap&logoColor=8b5cf6" />
-</p>
+</div>
 
-## Contribution snake
-<p align="center"> <img src="https://raw.githubusercontent.com/EkimBolat/EkimBolat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p>
+<br>
 
-## Contact
-<p align="center">
-<a href="mailto:ekim.bubu@gmail.com">
-<img src="https://img.shields.io/badge/Email-ekim.bubu%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-</p>
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## Currently Learning
+
+Java · Python · Spring Boot · SQL · SAP ABAP
+
+## Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/EkimBolat/EkimBolat/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[GitHub](https://github.com/EkimBolat)
+
+</div>
+
+
