@@ -2,9 +2,9 @@
 
 # Ekim Bolat
 
-Computer Engineering Student · Ege University
+### Computer Engineering Student · Ege University
 
-Backend Development & SAP Technologies
+### Backend Development & SAP Technologies
 
 </div>
 
@@ -16,6 +16,7 @@ Backend Development & SAP Technologies
 
 ![Python](https://img.shields.io/badge/-Python-6C4FD6?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-6C4FD6?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-6C4FD6?style=flat-square&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-6C4FD6?style=flat-square&logo=csharp&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6C4FD6?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6C4FD6?style=flat-square&logo=postgresql&logoColor=white)
