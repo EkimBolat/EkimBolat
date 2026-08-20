@@ -41,11 +41,3 @@
 
 </td></tr>
 </table>
-
-<br>
-
-<div align="center">
-
-[GitHub](https://github.com/EkimBolat)
-
-</div>
