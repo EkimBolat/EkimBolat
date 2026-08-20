@@ -37,13 +37,7 @@
 
 ### Contribution Activity
 
-<table align="center">
-<tr>
-<td align="center" valign="middle"><img src="plant-snake.svg" height="65" /></td>
-<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/EkimBolat/EkimBolat/output/github-contribution-grid-snake.svg" /></td>
-<td align="center" valign="middle"><img src="plant-cactus.svg" height="65" /></td>
-</tr>
-</table>
+<img src="plant-snake.svg" height="55" align="middle" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/EkimBolat/EkimBolat/output/github-contribution-grid-snake.svg" width="480" align="middle" />&nbsp;&nbsp;<img src="plant-cactus.svg" height="55" align="middle" />
 
 </td></tr>
 </table>
