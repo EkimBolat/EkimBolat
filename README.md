@@ -10,40 +10,37 @@
 
 <br>
 
-## Tech Stack
+<table align="center" width="100%">
+<tr><td align="center">
 
-<div align="center">
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-6C4FD6?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-6C4FD6?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-6C4FD6?style=flat-square&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-6C4FD6?style=flat-square&logo=csharp&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6C4FD6?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6C4FD6?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-6C4FD6?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-6C4FD6?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-6C4FD6?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-6C4FD6?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-</div>
+![shelf](https://dummyimage.com/700x6/6C4FD6/6C4FD6.png)
 
-## Currently Learning
+</td></tr>
+</table>
 
-<div align="center">
+<br>
 
-![Java](https://img.shields.io/badge/Java-6C4FD6?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6C4FD6?style=flat-square&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6C4FD6?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6C4FD6?style=flat-square&logoColor=white)
+<table align="center" width="100%">
+<tr><td align="center">
 
-</div>
-
-## Contribution Activity
-
-<div align="center">
+### Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/EkimBolat/EkimBolat/output/github-contribution-grid-snake.svg)
 
-</div>
+</td></tr>
+</table>
 
 <br>
 
