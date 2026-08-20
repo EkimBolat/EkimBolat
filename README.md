@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student · Ege University
 
-### Backend Development & SAP Technologies
+### Backend Development
 
 </div>
 
@@ -34,9 +34,16 @@
 ![Python](https://img.shields.io/badge/Python-7B2FF7?style=flat-square&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FF6B00?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3A86FF?style=flat-square&logoColor=white)
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-FFD60A?style=flat-square&logoColor=black)
 
 </div>
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [evergreen-bank](https://github.com/EkimBolat/evergreen-bank) | Eco-conscious banking API — every transaction earns Nature Points that plant real trees | ![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-FFD60A?style=flat-square&logo=spring&logoColor=black) |
+| [concert-ticket](https://github.com/EkimBolat/concert-ticket) | Distributed backend simulating high-demand concert ticket sales — virtual waiting room and real-time seat locking with Redis | ![Go](https://img.shields.io/badge/-Go-7B2FF7?style=flat-square&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-E4002B?style=flat-square&logo=redis&logoColor=white) |
+| [EkimBolat.github.io](https://github.com/EkimBolat/EkimBolat.github.io) | Personal portfolio site | ![HTML](https://img.shields.io/badge/-HTML-3A86FF?style=flat-square&logo=html5&logoColor=white) |
 
 ## Contribution Activity
 
