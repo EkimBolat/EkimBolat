@@ -2,9 +2,7 @@
 
 # Ekim Bolat
 
-### Computer Engineering Student · Ege University
-
-### Backend Development
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%C2%B7+Ege+University;Backend+Developer;Building+distributed+systems+in+Go+%26+Java)
 
 </div>
 
@@ -34,6 +32,15 @@
 ![Python](https://img.shields.io/badge/Python-7B2FF7?style=flat-square&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FF6B00?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3A86FF?style=flat-square&logoColor=white)
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EkimBolat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=7B2FF7&text_color=ffffff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EkimBolat&hide_border=true&background=0D1117&ring=7B2FF7&fire=FF6B00&currStreakLabel=00D4FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff80" />
 
 </div>
 
