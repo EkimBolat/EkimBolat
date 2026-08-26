@@ -6,7 +6,7 @@
 
 ![banner](banner.svg)
 
-I'm a Computer Engineering student at Ege University focused on backend development. I like building distributed systems and working with Spring Boot, Go, and PostgreSQL. Recently I built **evergreen-bank**, an eco-conscious banking API where every transaction earns Nature Points that plant real trees, and **concert-ticket**, a distributed backend simulating high-demand concert ticket sales with a virtual waiting room and Redis-based seat locking.
+I'm a Computer Engineering student at Ege University focused on backend development. I like building distributed systems and working with Spring Boot, Go, and PostgreSQL. Recently I built **evergreen-bank**, an eco-conscious banking API where every transaction earns Nature Points that plant real trees, and **gatekeeper**, a distributed backend simulating high-demand concert ticket sales with a virtual waiting room and Redis-based seat locking.
 
 ### Find me around the web 🌐
 
