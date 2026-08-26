@@ -10,9 +10,9 @@ I'm a Computer Engineering student at Ege University focused on backend developm
 
 ### Find me around the web 🌐
 
-- Code on [GitHub](https://github.com/EkimBolat)
-- Portfolio at [ekimbolat.github.io](https://ekimbolat.github.io)
-- Reach me by [email](mailto:ekim.bubu@gmail.com)
+- Code on [GitHub](https://github.com/EkimBolat) 🐙
+- Portfolio at [ekimbolat.github.io](https://ekimbolat.github.io) 🌱
+- Reach me by [email](mailto:ekim.bubu@gmail.com) 📧
 
 <br>
 
