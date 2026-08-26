@@ -21,17 +21,7 @@ I'm a Computer Engineering student at Ege University focused on backend developm
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-A78BFA?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-A78BFA?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-A78BFA?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-A78BFA?style=flat-square&logo=csharp&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-A78BFA?style=flat-square&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-A78BFA?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-A78BFA?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-A78BFA?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-A78BFA?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-![shelf](https://dummyimage.com/700x6/A78BFA/A78BFA.png)
+![Skills](https://skillicons.dev/icons?i=python,java,go,cs,spring,postgres,git,github,vscode&theme=dark)
 
 </td></tr>
 </table>
