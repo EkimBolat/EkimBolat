@@ -6,7 +6,7 @@
 
 ![banner](banner.svg)
 
-I'm a Computer Engineering student at Ege University focused on backend development. I like building distributed systems and working with Spring Boot, Go, and PostgreSQL. Recently I built **evergreen-bank**, an eco-conscious banking API where every transaction earns Nature Points that plant real trees, **concert-ticket**, a distributed backend simulating high-demand concert ticket sales with a virtual waiting room and Redis-based seat locking, and **[Collectra](https://collectra-one.vercel.app)**, a social platform to share and discover collections — Lego, cards, stamps, and more — with Instagram-style privacy and a public explore feed.
+I'm a Computer Engineering student at Ege University focused on backend development. I like building distributed systems and working with Spring Boot, Go, and PostgreSQL. Recently I built **[Evergreen Bank](https://github.com/EkimBolat/evergreen-bank)**, an eco-conscious banking API where every transaction earns Nature Points that plant real trees, **[Gatekeeper](https://github.com/EkimBolat/gatekeeper)**, a distributed backend simulating high-demand concert ticket sales with a virtual waiting room and Redis-based seat locking, and **[Collectra](https://collectra-one.vercel.app)**, a social platform to share and discover collections — Lego, cards, stamps, and more — with Instagram-style privacy and a public explore feed.
 
 ### Find me around the web 🌐
 
