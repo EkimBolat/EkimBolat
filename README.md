@@ -6,7 +6,24 @@
 
 ![banner](banner.svg)
 
-I'm a Computer Engineering student at Ege University focused on backend development. I like building distributed systems and working with Spring Boot, Go, and PostgreSQL. Recently I built **[evergreen-bank](https://github.com/EkimBolat/evergreen-bank)**, an eco-conscious banking API where every transaction earns Nature Points that plant real trees, **[gatekeeper](https://github.com/EkimBolat/gatekeeper)**, a distributed backend simulating high-demand concert ticket sales with a virtual waiting room and Redis-based seat locking, and **[Collectra](https://github.com/EkimBolat/collectra)**, a social platform to share and discover collections — Lego, cards, stamps, and more — with Instagram-style privacy and a public explore feed.
+Computer Engineering student at Ege University focused on backend development — distributed systems, Go, Spring Boot, and PostgreSQL.
+
+<br>
+
+### 🚀 Featured: Gatekeeper
+
+**[gatekeeper](https://github.com/EkimBolat/gatekeeper)** — a 6-service distributed backend simulating high-demand concert ticket sales (inspired by the 2022 Ticketmaster crash). Redis-backed seat locking + a virtual waiting room guarantee no seat sells twice, even under thousands of concurrent requests.
+
+- Concurrency-safe locking proven with 50 goroutines and 100 real HTTP clients — 1 winner, 0 errors
+- Saga-based purchase flow (charge → confirm → compensate) across 6 independently deployed services
+- **[Try the live demo →](https://github.com/EkimBolat/gatekeeper)** (Go · Redis · RabbitMQ · PostgreSQL · WebSocket · Docker)
+
+<br>
+
+### Other projects
+
+- **[evergreen-bank](https://github.com/EkimBolat/evergreen-bank)** — an eco-conscious banking API (Spring Boot) where every transaction earns Nature Points that plant real trees
+- **[Collectra](https://github.com/EkimBolat/collectra)** — a social platform to share and discover collections (Lego, cards, stamps) with Instagram-style privacy and a public explore feed
 
 ### Find me around the web 🌐
 
